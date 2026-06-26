@@ -1,7 +1,7 @@
 ---
 id: o-wymiarze-komunikacja
-title: O wymiarze  Komunikacja
-sidebar_label: O wymiarze  Komunikacja
+title: O wymiarze Komunikacja
+sidebar_label: O wymiarze Komunikacja
 sidebar_position: 0
 opracowanie: Stefan Wajda
 data_zgloszenia: 16 czerwca 2025 r.
@@ -10,7 +10,7 @@ wersja_robocza: true
 ---
 
 
-## 🟦 Wymiar Komunikacja**
+## 🟦 Wymiar Komunikacja
 
 **(Dostępne komunikaty, dokumenty, treści cyfrowe, multimedia, formularze, BIP, WWW)**
 
@@ -43,7 +43,7 @@ Wymiar Komunikacja jest ściśle powiązany z pozostałymi wymiarami Modelu dojr
 
 ## 2.Cel  wymiaru
 
-**Zasadniczym celem  wymiaru Komunikacja jest zapewnienie, aby wszystkie treści tworzone i udostępniane przez organizację — wewnętrzne i zewnętrzne — były czytelne, zrozumiałe i dostępne cyfrowo dla jak najszerszego grona odbiorców, zgodnie z normami dostępności oraz dobrymi praktykami komunikacji.**
+**Zasadniczym celem wymiaru Komunikacja jest zapewnienie, aby wszystkie treści tworzone i udostępniane przez organizację — wewnętrzne i zewnętrzne — były czytelne, zrozumiałe i dostępne cyfrowo dla jak najszerszego grona odbiorców, zgodnie z normami dostępności oraz dobrymi praktykami komunikacji.** 
 
 
 
@@ -108,13 +108,6 @@ Jest to wymiar opisujący **reakcję organizacji na potrzeby użytkowników** �
 - **Monitorowanie i poprawa** – przeglądy jakości komunikacji, reagowanie na zgłoszenia użytkowników, analizowanie błędów i doskonalenie praktyk.
 
 -->
-
-
-
-
-
-
-
 
 ### 4.1. Planowanie i organizacja komunikacji
 - Określone zasady i standardy komunikacji dostępnej cyfrowo.  

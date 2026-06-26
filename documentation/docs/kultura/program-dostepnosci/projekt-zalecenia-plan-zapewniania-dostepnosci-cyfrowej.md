@@ -4,11 +4,11 @@ title: Projekt zalecenia w sprawie opracowania rocznego planu działań na rzecz
 sidebar_label: Projekt zalecenia
 sidebar_position: 0
 description: Propozycja zalecenia
-keywords: [kultura organziacyjna, zarządzanie, plan działania]
-tags: [kultura organziacyjna, zarządzanie, plan działania]
+keywords: [kultura organizacyjna, zarządzanie, plan działania ]
+tags: [kultura organizacyjna, zarządzanie, plan działania]
 opracowanie: Anna Czekalska, Stefan Wajda
 data_zgloszenia: 2 października 2025 r.
-ostatnia_aktualizacja: 21 listopada 2025 r.
+ostatnia_aktualizacja: 21 stycznia 2026 r.
 wersja_robocza: true
 ---
 
@@ -22,7 +22,7 @@ obszary wynikające z ustawy o dostępności cyfrowej oraz dobrych praktyk zarz�
 ## Zalecenie
 
 **Organizacje opracowują i przyjmują roczny plan działań na rzecz dostępności cyfrowej, obejmujący najważniejsze obszary zapewniania dostępności, w szczególności komunikację, wsparcie użytkowników, 
-kompetencje personelu, zaopatrzenie, cykl życia TIK oraz działania organizacyjne.**
+kompetencje pracowników, zaopatrzenie, cykl życia TIK oraz działania organizacyjne.**
 
 
 ## Rekomendacje
@@ -39,13 +39,13 @@ Plan działania na rzecz poprawy zapewniania dostępności osobom ze szczególny
 W zakresie dostępności cyfrowej Plan działania na rzecz poprawy zapewniania dostępności osobom ze szczególnymi potrzebami powinien obejmować:
 
 1. **Podstawowe elementy**
-- Inwentaryzacja zasobów cyfrowych – lista stron internetowych, BIP, aplikacji mobilnych, systemów informatycznych, platform komunikacyjnych, dokumentów, multimediów pozostających w gestii instytucji.
-- Ocena stanu dostępności – analiza zgodności ww. zasobów z wymaganiami WCAG 2.1 (na poziomie co najmniej AA) oraz z przepisami ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (z 4 kwietnia 2019 r.).
-- Działania naprawcze – określenie kroków potrzebnych do usunięcia stwierdzonych barier (np. poprawa kontrastów, wprowadzenie opisów alternatywnych, uproszczenie nawigacji, dostosowanie formularzy online).
+- Inwentaryzacja zasobów cyfrowych – lista stron internetowych, BIP, aplikacji mobilnych, systemów informatycznych, platform komunikacyjnych, dokumentów, multimediów organizacji.
+- Ocena stanu dostępności – analiza zgodności ww. zasobów z wymaganiami ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+- Działania naprawcze – określenie kroków potrzebnych do usunięcia stwierdzonych barier (np. poprawa kontrastów, wprowadzenie opisów alternatywnych, uproszczenie nawigacji, dostosowanie formularzy internetowych).
 - Procedury utrzymania dostępności – mechanizmy bieżącej kontroli, aktualizacji oraz testowania nowych treści i systemów.
 - Edukacja i kompetencje – plan szkoleń pracowników (redaktorów treści, informatyków, osób przygotowujących dokumenty) w zakresie dostępności cyfrowej.
 - Mechanizmy zgłaszania problemów – wskazanie procedury i narzędzi, dzięki którym osoby ze szczególnymi potrzebami mogą informować o niedostępności cyfrowej (np. formularz online, adres e-mail, kontakt telefoniczny).
-2. Rekomendowane elementy dodatkowe
+2. **Rekomendowane elementy dodatkowe**
 - Polityka tworzenia nowych zasobów – standardy i wytyczne, które muszą spełniać wszystkie nowo tworzone serwisy, aplikacje i dokumenty cyfrowe.
 - Testy z udziałem użytkowników – plan przeprowadzania badań użyteczności i dostępności z udziałem osób z niepełnosprawnościami.
 - Wskaźniki monitorowania postępów – np. procent treści zgodnych z WCAG, liczba przeszkolonych pracowników, czas reakcji na zgłoszenie problemu.
@@ -84,13 +84,3 @@ Plan działania na rzecz poprawy zapewniania dostępności jest formalnym i prak
 - budować trwałą kulturę dostępności.
 
 Opracowanie i wdrożenie Planu działania jest nie tylko wymogiem prawnym, ale również wyrazem odpowiedzialności społecznej instytucji publicznych, zapewniającym równy dostęp do usług publicznych.
-
-## Źródła, opracowania
-
-
-## Historia wersji
-
-| Wersja | Autor | Data | Opis zmian |
-| --- | --- | --- | --- |
-| 1.0 | Anna Czekalska | 2 października 2025 r | Utworzenie |
-| 2.0 | Anna Czekalska | 21 listopada 2025 r | Korekta |
